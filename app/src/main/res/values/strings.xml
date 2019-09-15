@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Task Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menutitle_showDurations">Durations Report</string>
+    <string name="menutitle_settings">Settings</string>
+    <string name="menutitle_showAbout">About TaskTimer</string>
+    <string name="manutitle_generate">Generate Data</string>
+    <string name="no_task_message">No Task Selected</string>
+    <string name="edit_button_description">Button to edit a task detail</string>
+    <string name="delete_button_description">Button to delete a task</string>
+    <string name="addedit_name_hit">Task name : Required</string>
+    <string name="addedit_description_hint">Task Descriptional: Optional</string>
+    <string name="addedit_sort_hint">Order:  sorts low to high</string>
+    <string name="addedit_save_text">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="instructions_heading">Instructions</string>
+    <string name="instructions">Use the add button (+) in the toolbar above to create new tasks." +
+        "\n\nTasks with lower sort orders will be placed higher up the list." +
+        "Tasks with the same sort order will be sorted alphabetically." +
+        "\n\nTapping a task will start the timer for that task (and will stop the timer for any previous task that was being timed)." +
+        "\n\nEach task has Edit and Delete buttons if you want to change the details or remove the task.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="del_dialog_positive_caption">Delete</string>
+    <string name="deldialog_message">Deleting will delete data for task id %1$d: %2$s</string>
+    <string name="canceledit_dialog_menu">you have unsaved changes. Want to continue?</string>
+    <string name="cancelEditDialog_poistive_caption">Abandon changes</string>
+    <string name="cancelEditDialog_negative_caption">Continue editing</string>
+    <string name="about_copyright">Copyright \u00a9 2019 sandeep.com</string>
+    <string name="about_weblink">Some link</string>
+    <string name="about_email">test@test.com</string>
+    <string name="about_credits">Credits: Sandeep</string>
+</resources>
